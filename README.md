@@ -1,5 +1,5 @@
 # sse.js
-
+### THIS FILE IS FORKED. THIS IS NOT A ORIGINAL FILE
 `sse.js` is a flexible `EventSource` replacement for JavaScript designed
 to consume Server-Sent Events (SSE) streams with more control and
 options than the standard `EventSource`. The main limitations of
